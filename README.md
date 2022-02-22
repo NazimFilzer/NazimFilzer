@@ -21,7 +21,7 @@
 ### Fun Fact?
 
 * I am a Madridista &#128513;
-* I love binge watching youtube 🤖;
+* I love binge watching youtube 🤖
 * I love playing COD &#127756;
 
 <br>
