@@ -11,16 +11,13 @@
 
 ### What i am currently focusing on ?
 
-* Data Structures and Algorithms 😎
-* Competitive Coding &#128640;
-* College Studies😓&#65039;
 * Web Devolopment &#128517;
   
 
 
 ### Fun Fact?
 
-* I am a Madridista &#128513;
+* Madridista here &#128513;
 * I love binge watching youtube 🤖
 * I love playing COD &#127756;
 
