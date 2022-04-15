@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazim Filzer</h1>
 <h3 align="center">A Computer Science and Engineering Student</h3>
 
-- 👨‍💻 Doing by Btech CS degree from **Model Engineering College Thrikkakara**
+- 👨‍💻 Doing Btech CS degree from **Model Engineering College Thrikkakara**
 
 - 🌐 Currently *Exploring Front-End Development**
 
