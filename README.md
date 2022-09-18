@@ -6,7 +6,7 @@
 - 👨‍💻 Doing Btech CS degree from Model Engineering College Thrikkakara  
   
 
-- 🌐 Exploring Web-Development  
+- 🌐 Exploring BackEnd-Development  
   
 
 - 🌱 I’m currently learning Javascript  
