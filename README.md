@@ -1,6 +1,8 @@
 
 
 ### **<div align="center">Hi 👋, I'm Nazim Filzer</div>**  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NazimFilzer&label=Profile%20views&color=0e75b6&style=flat" alt="NazimFilzer" /> </p>
   
 
 - 👨‍💻 Doing Btech CS degree from Model Engineering College Thrikkakara  
