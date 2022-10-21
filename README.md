@@ -67,14 +67,18 @@
 
 ## Github Stats  
 <p ><img src="https://github-readme-stats.vercel.app/api?username=NazimFilzer&show_icons=true&count_private=true&hide_border=true" /></p> 
+
 <br/>  
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NazimFilzer&" alt="nazimfilzer" /></p>
+
 <br/>  
+
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NazimFilzer&theme=react-dark)
 
 <br/>  
 
-  
+ 
 
 <br/>  
 
