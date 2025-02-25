@@ -13,10 +13,10 @@
 - 🌐 Exploring BackEnd-Development  
   
 
-- 🌱 I’m currently learning Javascript  
+- 🌱 I’m currently learning Java Spring  
   
 
-- ⚡ Fun fact Hala-Madrid  
+
   
 
 <br/>  
